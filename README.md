@@ -2,7 +2,7 @@
 
 **Xu Jing**
 
-本项目介绍了深度学习中TensorRT对TensorFlow,ONNX,Caffe,Pytorch等框架的推断加速，TensorRT提供了C++ API和Python API,它解决了GPU模型推断加速的优化瓶颈；目前TensorRT的版本为7.x.x,TensorRT并不对多有框架的所有操作均支持。
+本项目介绍了深度学习中TensorRT对TensorFlow,ONNX,Caffe,Pytorch等框架的推断加速，TensorRT提供了C++ API和Python API,它解决了GPU模型推断加速的优化瓶颈；目前TensorRT的版本为7.x.x,TensorRT并不对以上框架的所有操作均支持。
 
 在线slide的地址：<https://dataxujing.github.io/TensorRT_CV/index.html#slide=1>
 
