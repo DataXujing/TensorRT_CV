@@ -6,6 +6,8 @@
 
 在线slide的地址：<https://dataxujing.github.io/TensorRT_CV/index.html#slide=1>
 
+在线B站视频教程： <https://www.bilibili.com/video/av86802077>
+
 
 内容：
 
