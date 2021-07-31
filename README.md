@@ -1,6 +1,6 @@
 ## TensorRT的介绍及应用
 
-**:fire::fire:fire: 我们参加NVIDIA和阿里云共同举办的TensorRT异构计算比赛，喜提第三名(二等奖): 附开源地址：<https://github.com/DataXujing/TensorRT-DETR> **
+**:fire: :fire: :fire: 我们参加NVIDIA和阿里云共同举办的TensorRT异构计算比赛，喜提第三名(二等奖): 附开源地址：<https://github.com/DataXujing/TensorRT-DETR> **
 
 ------
 
